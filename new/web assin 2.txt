@@ -1,0 +1,7 @@
+assignment 7.2
+
+
+ths is not assignment 
+//learn
+DI = dependency injection
+IOC = invertion of control
